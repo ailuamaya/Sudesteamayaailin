@@ -18,7 +18,7 @@
     "url": "https://github.com/ailuamaya/Sudesteconbootstrap/issues"
   },
   "homepage": "https://github.com/ailuamaya/Sudesteconbootstrap#readme",
-  "description": "",
+  "description": "Restaurant de comida mediterranea en el bajo de San Isidro, Buenos Aires",
   "devDependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.16"
